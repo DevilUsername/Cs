@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\Github\\Cs\\C#Learning\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A11DCC0F-DDDD-423F-8D43-DF7B87D17EEB}|C#Learning\\C#Learning.csproj|x:\\github\\cs\\c#learning\\c#learning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11DCC0F-DDDD-423F-8D43-DF7B87D17EEB}|C#Learning\\C#Learning.csproj|solutionrelative:c#learning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "X:\\Github\\Cs\\C#Learning\\C#Learning\\Program.cs",
+              "RelativeDocumentMoniker": "C#Learning\\Program.cs",
+              "ToolTip": "X:\\Github\\Cs\\C#Learning\\C#Learning\\Program.cs",
+              "RelativeToolTip": "C#Learning\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T16:44:16.769Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

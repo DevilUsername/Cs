@@ -1,0 +1,7 @@
+X:\Github\Cs\C#Learning\C#Learning\bin\Debug\C#Learning.exe.config
+X:\Github\Cs\C#Learning\C#Learning\bin\Debug\C#Learning.exe
+X:\Github\Cs\C#Learning\C#Learning\bin\Debug\C#Learning.pdb
+X:\Github\Cs\C#Learning\C#Learning\obj\Debug\C#Learning.csproj.AssemblyReference.cache
+X:\Github\Cs\C#Learning\C#Learning\obj\Debug\C#Learning.csproj.CoreCompileInputs.cache
+X:\Github\Cs\C#Learning\C#Learning\obj\Debug\C#Learning.exe
+X:\Github\Cs\C#Learning\C#Learning\obj\Debug\C#Learning.pdb

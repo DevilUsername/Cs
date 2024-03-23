@@ -1,0 +1,17 @@
+X:\Github\Cs\Soft_forms\Soft_forms\bin\Debug\net8.0-windows\Soft_forms.exe
+X:\Github\Cs\Soft_forms\Soft_forms\bin\Debug\net8.0-windows\Soft_forms.deps.json
+X:\Github\Cs\Soft_forms\Soft_forms\bin\Debug\net8.0-windows\Soft_forms.runtimeconfig.json
+X:\Github\Cs\Soft_forms\Soft_forms\bin\Debug\net8.0-windows\Soft_forms.dll
+X:\Github\Cs\Soft_forms\Soft_forms\bin\Debug\net8.0-windows\Soft_forms.pdb
+X:\Github\Cs\Soft_forms\Soft_forms\obj\Debug\net8.0-windows\Soft_forms.Form1.resources
+X:\Github\Cs\Soft_forms\Soft_forms\obj\Debug\net8.0-windows\Soft_forms.csproj.GenerateResource.cache
+X:\Github\Cs\Soft_forms\Soft_forms\obj\Debug\net8.0-windows\Soft_forms.GeneratedMSBuildEditorConfig.editorconfig
+X:\Github\Cs\Soft_forms\Soft_forms\obj\Debug\net8.0-windows\Soft_forms.AssemblyInfoInputs.cache
+X:\Github\Cs\Soft_forms\Soft_forms\obj\Debug\net8.0-windows\Soft_forms.AssemblyInfo.cs
+X:\Github\Cs\Soft_forms\Soft_forms\obj\Debug\net8.0-windows\Soft_forms.csproj.CoreCompileInputs.cache
+X:\Github\Cs\Soft_forms\Soft_forms\obj\Debug\net8.0-windows\Soft_forms.sourcelink.json
+X:\Github\Cs\Soft_forms\Soft_forms\obj\Debug\net8.0-windows\Soft_forms.dll
+X:\Github\Cs\Soft_forms\Soft_forms\obj\Debug\net8.0-windows\refint\Soft_forms.dll
+X:\Github\Cs\Soft_forms\Soft_forms\obj\Debug\net8.0-windows\Soft_forms.pdb
+X:\Github\Cs\Soft_forms\Soft_forms\obj\Debug\net8.0-windows\Soft_forms.genruntimeconfig.cache
+X:\Github\Cs\Soft_forms\Soft_forms\obj\Debug\net8.0-windows\ref\Soft_forms.dll

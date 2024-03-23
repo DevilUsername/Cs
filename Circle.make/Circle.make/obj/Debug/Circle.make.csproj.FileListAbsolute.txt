@@ -1,0 +1,10 @@
+X:\Github\Cs\Circle.make\Circle.make\bin\Debug\Circle.make.exe.config
+X:\Github\Cs\Circle.make\Circle.make\bin\Debug\Circle.make.exe
+X:\Github\Cs\Circle.make\Circle.make\bin\Debug\Circle.make.pdb
+X:\Github\Cs\Circle.make\Circle.make\obj\Debug\Circle.make.csproj.AssemblyReference.cache
+X:\Github\Cs\Circle.make\Circle.make\obj\Debug\Circle.make.Form1.resources
+X:\Github\Cs\Circle.make\Circle.make\obj\Debug\Circle.make.Properties.Resources.resources
+X:\Github\Cs\Circle.make\Circle.make\obj\Debug\Circle.make.csproj.GenerateResource.cache
+X:\Github\Cs\Circle.make\Circle.make\obj\Debug\Circle.make.csproj.CoreCompileInputs.cache
+X:\Github\Cs\Circle.make\Circle.make\obj\Debug\Circle.make.exe
+X:\Github\Cs\Circle.make\Circle.make\obj\Debug\Circle.make.pdb
