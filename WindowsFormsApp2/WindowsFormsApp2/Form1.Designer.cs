@@ -43,53 +43,60 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Location = new System.Drawing.Point(292, 12);
+            this.pictureBox1.Location = new System.Drawing.Point(389, 15);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(496, 426);
+            this.pictureBox1.Size = new System.Drawing.Size(661, 524);
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
             // txtX1
             // 
-            this.txtX1.Location = new System.Drawing.Point(148, 12);
+            this.txtX1.Location = new System.Drawing.Point(197, 15);
+            this.txtX1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtX1.Name = "txtX1";
-            this.txtX1.Size = new System.Drawing.Size(100, 20);
+            this.txtX1.Size = new System.Drawing.Size(132, 22);
             this.txtX1.TabIndex = 1;
             // 
             // txtY1
             // 
-            this.txtY1.Location = new System.Drawing.Point(148, 38);
+            this.txtY1.Location = new System.Drawing.Point(197, 47);
+            this.txtY1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtY1.Name = "txtY1";
-            this.txtY1.Size = new System.Drawing.Size(100, 20);
+            this.txtY1.Size = new System.Drawing.Size(132, 22);
             this.txtY1.TabIndex = 2;
             // 
             // txtX2
             // 
-            this.txtX2.Location = new System.Drawing.Point(148, 64);
+            this.txtX2.Location = new System.Drawing.Point(197, 79);
+            this.txtX2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtX2.Name = "txtX2";
-            this.txtX2.Size = new System.Drawing.Size(100, 20);
+            this.txtX2.Size = new System.Drawing.Size(132, 22);
             this.txtX2.TabIndex = 3;
             // 
             // txtY2
             // 
-            this.txtY2.Location = new System.Drawing.Point(148, 90);
+            this.txtY2.Location = new System.Drawing.Point(197, 111);
+            this.txtY2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtY2.Name = "txtY2";
-            this.txtY2.Size = new System.Drawing.Size(100, 20);
+            this.txtY2.Size = new System.Drawing.Size(132, 22);
             this.txtY2.TabIndex = 4;
             // 
             // txtH
             // 
-            this.txtH.Location = new System.Drawing.Point(148, 116);
+            this.txtH.Location = new System.Drawing.Point(197, 143);
+            this.txtH.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtH.Name = "txtH";
-            this.txtH.Size = new System.Drawing.Size(100, 20);
+            this.txtH.Size = new System.Drawing.Size(132, 22);
             this.txtH.TabIndex = 5;
             // 
             // Rpoint
             // 
             this.Rpoint.AutoSize = true;
-            this.Rpoint.Location = new System.Drawing.Point(148, 155);
+            this.Rpoint.Location = new System.Drawing.Point(197, 191);
+            this.Rpoint.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Rpoint.Name = "Rpoint";
-            this.Rpoint.Size = new System.Drawing.Size(85, 17);
+            this.Rpoint.Size = new System.Drawing.Size(103, 20);
             this.Rpoint.TabIndex = 6;
             this.Rpoint.TabStop = true;
             this.Rpoint.Text = "radioButton1";
@@ -98,9 +105,10 @@
             // Rline
             // 
             this.Rline.AutoSize = true;
-            this.Rline.Location = new System.Drawing.Point(148, 178);
+            this.Rline.Location = new System.Drawing.Point(197, 219);
+            this.Rline.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Rline.Name = "Rline";
-            this.Rline.Size = new System.Drawing.Size(85, 17);
+            this.Rline.Size = new System.Drawing.Size(103, 20);
             this.Rline.TabIndex = 7;
             this.Rline.TabStop = true;
             this.Rline.Text = "radioButton2";
@@ -109,9 +117,10 @@
             // Rtriangle
             // 
             this.Rtriangle.AutoSize = true;
-            this.Rtriangle.Location = new System.Drawing.Point(148, 201);
+            this.Rtriangle.Location = new System.Drawing.Point(197, 247);
+            this.Rtriangle.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Rtriangle.Name = "Rtriangle";
-            this.Rtriangle.Size = new System.Drawing.Size(85, 17);
+            this.Rtriangle.Size = new System.Drawing.Size(103, 20);
             this.Rtriangle.TabIndex = 8;
             this.Rtriangle.TabStop = true;
             this.Rtriangle.Text = "radioButton3";
@@ -119,18 +128,20 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(13, 8);
+            this.button1.Location = new System.Drawing.Point(17, 10);
+            this.button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(129, 24);
+            this.button1.Size = new System.Drawing.Size(172, 30);
             this.button1.TabIndex = 9;
             this.button1.Text = "button1";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(1067, 554);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.Rtriangle);
             this.Controls.Add(this.Rline);
@@ -141,6 +152,7 @@
             this.Controls.Add(this.txtY1);
             this.Controls.Add(this.txtX1);
             this.Controls.Add(this.pictureBox1);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Form1";
             this.Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
